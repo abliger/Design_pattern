@@ -1,0 +1,12 @@
+
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8˜ğ©ÛÁ.
+W
+java:S1874,"5Remove this use of "getProxyClass"; it is deprecated.(äŠ‹†ûÿÿÿÿ8œ¯ıÛÁ.
+H
+java:S14817"&Remove this unused "o" local variable.(²ç¿øÿÿÿÿ8ªı£ÜÁ.
+]	java:S125"<This block of commented-out lines of code should be removed.(â¬ÿÿÿÿÿ8›âŞÍÁ.
+W
+java:S1141<"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ôŠ°ÜÁ.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÀ½şÿÿÿÿ8¦—ÍÓÁ.

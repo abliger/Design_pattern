@@ -1,0 +1,9 @@
+
+d
+java:S2095#"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(÷±·˜
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÀ½þÿÿÿÿ
+E
+java:S2093!"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+K
+java:S1874>"5Remove this use of "getProxyClass"; it is deprecated.(ú‘„Á
